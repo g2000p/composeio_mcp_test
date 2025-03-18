@@ -29,4 +29,4 @@ Feel free to contribute by:
 - Adding new test cases
 - Improving documentation
 - Reporting issues
-- Suggesting improvements 
+- Suggesting improvements
